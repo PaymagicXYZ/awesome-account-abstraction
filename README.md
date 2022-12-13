@@ -9,17 +9,27 @@ Pull requests are welcome! 🤝
 ## Overview
 Account Abstraction (AA) is the movement within Ethereum and EVM-compatible chains to improve transaction user experience by using smart contract wallets as opposed to externally-owned accounts (EOAs) as primary accounts. [EIP-4337](https://eips.ethereum.org/EIPS/eip-4337)) is the leading standard for implementing AA wallets, which would have the added benefits of not needing consensus-layer protocol changes, user experience improvements through bundled transactions, free/subsidized/token-paid gas costs, and optional privacy and signature enchancing features. 
 
-### Required Reading 🙂
+### 🙂 Required Reading
 - [EIP-4337](https://eips.ethereum.org/EIPS/eip-4337) - The latest and most likely to be adopted EIP for account abstraction
 - [Vitalik's Road to Account Abstraction](https://notes.ethereum.org/@vbuterin/account_abstraction_roadmap) - Account abstraction history on Ethereum and reasoning how we got to EIP-4337
 
 ## AA Wallets & SDKs & Bundlers
-
+- [Biconomy]()
+- [StackUp]()
+- [Candide Wallet]()
+- [Soul Wallet]()
+- [Eth Infinitism]()
 
 ## 4337 Implementations
+- [Biconomy's 4337 implementation](https://github.com/bcnmy/scw-contracts/tree/master/contracts/smart-contract-wallet/aa-4337)
+- [Soul Wallet's 4337 implementation](https://github.com/proofofsoulprotocol/soul-wallet-contract/blob/main/contracts/SmartWallet.sol)
+- [Candide Wallet's 4337 implementation](https://github.com/candidelabs/CandideWalletContracts)
+- [Eth Inifitism's 4337 implementation](https://github.com/eth-infinitism/account-abstraction/tree/develop/contracts)
+
 
 ## Other Resources
-- [](https://medium.com/1kxnetwork/wallets-91c7c3457578)
+- [Smart Contract Wallet Overview from 1kx](https://medium.com/1kxnetwork/wallets-91c7c3457578)
+- [Open Zeppelin's EIP-4337 – Ethereum Account Abstraction Audit](https://blog.openzeppelin.com/eth-foundation-account-abstraction-audit/)
 
 
 ## Contribute
