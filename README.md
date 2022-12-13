@@ -11,10 +11,10 @@ Pull requests are welcome! 🤝
 5. [Other Resources](#other-resources)
 
 ## Overview
-Account Abstraction (AA) is the movement within Ethereum and EVM-compatible chains to improve transaction user experience by using smart contract wallets as primary accounts as opposed to externally-owned accounts (EOAs). [EIP-4337](https://eips.ethereum.org/EIPS/eip-4337)) is the leading standard for implementing AA wallets, which would have the benefits of not needing consensus-layer protocol changes, UX improvements through bundled transactions, free/subsidized/token-paid gas costs, and optional privacy and signature enchancing features. 
+Account Abstraction (AA) is the movement within Ethereum and EVM-compatible chains to improve transaction user experience by using smart contract wallets as primary accounts as opposed to externally-owned accounts (EOAs). [EIP-4337](https://eips.ethereum.org/EIPS/eip-4337) is the leading standard for implementing AA wallets, which has the benefit of not needing consensus-layer protocol changes, improves UX through bundled transactions, allows free/subsidized/token-paid gas costs, and supports optional privacy and signature enchancing features. 
 
 ### 🙂 Required Reading
-- [EIP-4337](https://eips.ethereum.org/EIPS/eip-4337) - The latest and most likely to be adopted EIP for account abstraction
+- [EIP-4337](https://eips.ethereum.org/EIPS/eip-4337) - The latest and most-likely-to-be-adopted EIP for account abstraction
 - [Vitalik's Road to Account Abstraction](https://notes.ethereum.org/@vbuterin/account_abstraction_roadmap) - Account abstraction history on Ethereum and reasoning how we got to EIP-4337
 
 ## AA Wallets & SDKs
@@ -37,6 +37,6 @@ Account Abstraction (AA) is the movement within Ethereum and EVM-compatible chai
 Contributions welcome! Open a PR!
 
 ## License
-The source code for the site is licensed under the MIT license, which you can find in the MIT-LICENSE.txt file.
+L<icensed under the MIT license, which you can find in the MIT-LICENSE.txt file.
 
 All graphical assets are licensed under the Creative Commons Attribution 3.0 Unported License.
