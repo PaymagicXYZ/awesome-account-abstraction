@@ -37,6 +37,6 @@ Account Abstraction (AA) is the movement within Ethereum and EVM-compatible chai
 Contributions welcome! Open a PR!
 
 ## License
-L<icensed under the MIT license, which you can find in the MIT-LICENSE.txt file.
+Licensed under the MIT license, which you can find in the MIT-LICENSE.txt file.
 
 All graphical assets are licensed under the Creative Commons Attribution 3.0 Unported License.
