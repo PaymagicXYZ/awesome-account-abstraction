@@ -14,6 +14,7 @@ Pull requests are welcome! 🤝
 Account Abstraction (AA) is the movement within Ethereum and EVM-compatible chains to improve transaction user experience by using smart contract wallets as primary accounts as opposed to externally-owned accounts (EOAs). [EIP-4337](https://eips.ethereum.org/EIPS/eip-4337) is the leading standard for implementing AA wallets, which has the benefit of not needing consensus-layer protocol changes, improves UX through bundled transactions, allows free/subsidized/token-paid gas costs, and supports optional privacy and signature enchancing features. 
 
 ### 🙂 Required Reading
+- [What is an Ethereum Account?](https://ethereum.org/en/developers/docs/accounts/) - EF documentation on Ethereum accounts
 - [EIP-4337](https://eips.ethereum.org/EIPS/eip-4337) - The latest and most-likely-to-be-adopted EIP for account abstraction
 - [Vitalik's Road to Account Abstraction](https://notes.ethereum.org/@vbuterin/account_abstraction_roadmap) - Account abstraction history on Ethereum and reasoning how we got to EIP-4337
 
@@ -32,6 +33,9 @@ Account Abstraction (AA) is the movement within Ethereum and EVM-compatible chai
 ## Other Resources
 - [Smart Contract Wallet Overview from 1kx](https://medium.com/1kxnetwork/wallets-91c7c3457578)
 - [Open Zeppelin's EIP-4337 – Ethereum Account Abstraction Audit](https://blog.openzeppelin.com/eth-foundation-account-abstraction-audit/)
+- [WTF is Account Abstraction from Argent](https://www.argent.xyz/blog/wtf-is-account-abstraction/)
+- [The History and Future of Account Abstraction from Nethermind](https://medium.com/nethermind-eth/the-history-and-future-of-account-abstraction-10cb097ebdc8)
+- (The current state of Account Abstraction from Garvit Khatri)[https://mirror.xyz/0x6C2265693900a68b9c9CBE2d6Eae3bd9336060db/MIThq8Ford5O3b0hDA4LR_tsRteDfazRfpVQXOR3Euk]
 
 ## Contribute
 Contributions welcome! Open a PR!
