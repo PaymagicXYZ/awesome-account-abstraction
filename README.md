@@ -19,13 +19,12 @@ Account Abstraction (AA) is the movement within Ethereum and EVM-compatible chai
 - [Vitalik's Road to Account Abstraction](https://notes.ethereum.org/@vbuterin/account_abstraction_roadmap) - Account abstraction history on Ethereum and reasoning how we got to EIP-4337
 
 ## AA Wallets & SDKs
-- [Ambire](https://www.ambire.com/) - General-purpose AA wallet live on Ethereum and other EVM chains
+- [Ambire Wallet](https://www.ambire.com/) - General-purpose AA wallet live on Ethereum and other EVM chains
 - [Etherspot](https://etherspot.io) - Account Abstraction SDK since 2019
 - [Biconomy](https://www.biconomy.io/sdk) - SDK for creating AA wallets and submitting txs
 - [StackUp](https://www.stackup.sh/) - Account abstraction infrastructure and bundler services
 - [Candide Wallet](https://www.candidewallet.com/) - Consumer wallet built on account abstraction and Safe DAO (prev Gnosis Safe)
 - [Soul Wallet](https://twitter.com/soulwallet_eth) - Consumer wallet launched at ETHBogotá 
-- [Ambire Wallet](https://github.com/AmbireTech/wallet/tree/development/contracts)
 - [Safe](https://safe.global/) - Smart contract accounts with with AA support
 
 ## 4337 Implementations
