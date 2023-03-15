@@ -19,6 +19,8 @@ Account Abstraction (AA) is the movement within Ethereum and EVM-compatible chai
 - [Vitalik's Road to Account Abstraction](https://notes.ethereum.org/@vbuterin/account_abstraction_roadmap) - Account abstraction history on Ethereum and reasoning how we got to EIP-4337
 
 ## AA Wallets & SDKs
+- [Patch Wallet](https://app.patchwallet.com) - An AA wallet that's automatically attached to every Twitter, Email, or Github
+- [Avocado](https://avocado.instadapp.io/) - Next-gen AA wallet with network abstraction and seamless cross-chain experience
 - [Ambire Wallet](https://www.ambire.com/) - General-purpose AA wallet live on Ethereum and other EVM chains
 - [Etherspot](https://etherspot.io) - Account Abstraction SDK since 2019
 - [Biconomy](https://www.biconomy.io/sdk) - SDK for creating AA wallets and submitting txs
