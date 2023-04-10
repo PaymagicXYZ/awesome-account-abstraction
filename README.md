@@ -27,7 +27,8 @@ Account Abstraction (AA) is the movement within Ethereum and EVM-compatible chai
 - [StackUp](https://www.stackup.sh/) - Account abstraction infrastructure and bundler services
 - [Candide Wallet](https://www.candidewallet.com/) - Consumer wallet built on account abstraction and Safe DAO (prev Gnosis Safe)
 - [Soul Wallet](https://twitter.com/soulwallet_eth) - Consumer wallet launched at ETHBogotá 
-- [Safe](https://safe.global/) - Smart contract accounts with with AA support
+- [Safe](https://safe.global/) - Smart contract accounts with AA support
+- [TrueWallet](https://true-wallet.io/) - Consumer wallet built on account abstraction with MPC-TSS
 
 ## 4337 Implementations
 - [Biconomy's 4337 implementation](https://github.com/bcnmy/scw-contracts/tree/master/contracts/smart-contract-wallet/aa-4337)
@@ -35,6 +36,7 @@ Account Abstraction (AA) is the movement within Ethereum and EVM-compatible chai
 - [Candide Wallet's 4337 implementation](https://github.com/candidelabs/CandideWalletContracts)
 - [Eth Inifitism's 4337 implementation](https://github.com/eth-infinitism/account-abstraction/tree/develop/contracts)
 - [Safe's 4337 implementation](https://github.com/eth-infinitism/account-abstraction/blob/develop/contracts/gnosis/EIP4337Manager.sol)
+- [TrueWallet's 4337 implementation](https://github.com/TrueWallet/contracts)
 
 ## 4337 Traction
 - [Dune ERC-4337 Dashboard](https://dune.com/johnrising/erc-4337)
