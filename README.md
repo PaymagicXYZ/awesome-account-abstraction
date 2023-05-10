@@ -28,6 +28,7 @@ Account Abstraction (AA) is the movement within Ethereum and EVM-compatible chai
 - [Candide Wallet](https://www.candidewallet.com/) - Consumer wallet built on account abstraction and Safe DAO (prev Gnosis Safe)
 - [Soul Wallet](https://twitter.com/soulwallet_eth) - Consumer wallet launched at ETHBogotá 
 - [Safe](https://safe.global/) - Smart contract accounts with with AA support
+- [Kriptonio](https://kriptonio.com/) - Account abstraction infrastructure and bundler as a service
 
 ## 4337 Implementations
 - [Biconomy's 4337 implementation](https://github.com/bcnmy/scw-contracts/tree/master/contracts/smart-contract-wallet/aa-4337)
