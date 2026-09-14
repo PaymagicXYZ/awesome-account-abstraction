@@ -46,6 +46,7 @@ Account Abstraction (AA) is the movement within Ethereum and EVM-compatible chai
 - [The History and Future of Account Abstraction from Nethermind](https://medium.com/nethermind-eth/the-history-and-future-of-account-abstraction-10cb097ebdc8)
 - [The current state of Account Abstraction from Garvit Khatri](https://mirror.xyz/0x6C2265693900a68b9c9CBE2d6Eae3bd9336060db/MIThq8Ford5O3b0hDA4LR_tsRteDfazRfpVQXOR3Euk)
 - [Unpacking 4337 from Ankit Chiplunkar](https://frontier.tech/unpacking-erc-4337)
+- [NightFall Crypto Access Exit Check](https://github.com/do2006/nightfall-crypto-access-exit-check) - Read-only post-revocation verification for Safe/smart-account permissions, including owner/module residue and token approvals.
 
 ## Contribute
 Contributions welcome! Open a PR!
